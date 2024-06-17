@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "O7Bi0oyvU3E4pq8NTCI3cLprY20DOa5Ewsre5YidbIfeEheVXoW3wHuqy7Sxx0Tviqt5DWle1dTw6Lxxl5bt/A==",
+  "success": true,
+  "projectFilePath": "/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/HelloWorld.Send.csproj",
+  "expectedPackageFiles": [
+    "/home/rafael/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/home/rafael/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/rafael/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

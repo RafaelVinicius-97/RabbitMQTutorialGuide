@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HelloWorld", "HelloWorld", "{E59B2A43-65F6-43AC-B97A-6B1C44CF1B97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Send", "HelloWorld.Send\HelloWorld.Send.csproj", "{7220738E-8E48-404A-B47E-E82F02F248DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Receive", "HelloWorld.Receive\HelloWorld.Receive.csproj", "{79505DD3-66A8-45B6-97AF-43EF4E046782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7220738E-8E48-404A-B47E-E82F02F248DC} = {E59B2A43-65F6-43AC-B97A-6B1C44CF1B97}
+		{79505DD3-66A8-45B6-97AF-43EF4E046782} = {E59B2A43-65F6-43AC-B97A-6B1C44CF1B97}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7220738E-8E48-404A-B47E-E82F02F248DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7220738E-8E48-404A-B47E-E82F02F248DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7220738E-8E48-404A-B47E-E82F02F248DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7220738E-8E48-404A-B47E-E82F02F248DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79505DD3-66A8-45B6-97AF-43EF4E046782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79505DD3-66A8-45B6-97AF-43EF4E046782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79505DD3-66A8-45B6-97AF-43EF4E046782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79505DD3-66A8-45B6-97AF-43EF4E046782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/bin/Debug/net8.0/HelloWorld.Receive
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/bin/Debug/net8.0/HelloWorld.Receive.deps.json
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/bin/Debug/net8.0/HelloWorld.Receive.runtimeconfig.json
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/bin/Debug/net8.0/HelloWorld.Receive.dll
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/bin/Debug/net8.0/HelloWorld.Receive.pdb
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/obj/Debug/net8.0/HelloWorld.Receive.csproj.AssemblyReference.cache
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/obj/Debug/net8.0/HelloWorld.Receive.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/obj/Debug/net8.0/HelloWorld.Receive.AssemblyInfoInputs.cache
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/obj/Debug/net8.0/HelloWorld.Receive.AssemblyInfo.cs
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/obj/Debug/net8.0/HelloWorld.Receive.csproj.CoreCompileInputs.cache
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/obj/Debug/net8.0/HelloWorld.Receive.csproj.CopyComplete
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/obj/Debug/net8.0/HelloWorld.Receive.dll
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/obj/Debug/net8.0/refint/HelloWorld.Receive.dll
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/obj/Debug/net8.0/HelloWorld.Receive.pdb
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/obj/Debug/net8.0/HelloWorld.Receive.genruntimeconfig.cache
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Receive/obj/Debug/net8.0/ref/HelloWorld.Receive.dll

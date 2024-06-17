@@ -1,0 +1,17 @@
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/bin/Debug/net8.0/HelloWorld.Send
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/bin/Debug/net8.0/HelloWorld.Send.deps.json
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/bin/Debug/net8.0/HelloWorld.Send.runtimeconfig.json
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/bin/Debug/net8.0/HelloWorld.Send.dll
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/bin/Debug/net8.0/HelloWorld.Send.pdb
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/obj/Debug/net8.0/HelloWorld.Send.csproj.AssemblyReference.cache
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/obj/Debug/net8.0/HelloWorld.Send.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/obj/Debug/net8.0/HelloWorld.Send.AssemblyInfoInputs.cache
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/obj/Debug/net8.0/HelloWorld.Send.AssemblyInfo.cs
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/obj/Debug/net8.0/HelloWorld.Send.csproj.CoreCompileInputs.cache
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/obj/Debug/net8.0/HelloWorld.Send.csproj.CopyComplete
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/obj/Debug/net8.0/HelloWorld.Send.dll
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/obj/Debug/net8.0/refint/HelloWorld.Send.dll
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/obj/Debug/net8.0/HelloWorld.Send.pdb
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/obj/Debug/net8.0/HelloWorld.Send.genruntimeconfig.cache
+/home/rafael/RiderProjects/RabbitMQTutorialGuide/HelloWorld.Send/obj/Debug/net8.0/ref/HelloWorld.Send.dll
